@@ -1,1 +1,2 @@
 # Laptop_Price_Prediction
+This is a machine learning project that predicts laptop prices using regression techniques. The project involves extensive data preprocessing, manipulation, and feature engineering. Exploratory Data Analysis (EDA) was also conducted to gain insights into the data. After testing both machine learning and deep learning algorithms, we decided to use the Random Forest algorithm as our final model.
